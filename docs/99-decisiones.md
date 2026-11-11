@@ -6,6 +6,22 @@ minutos y se empieza a improvisar.
 
 Formato: una entrada por decisión, la más reciente arriba.
 
+## 2026-11-11 · El Antecedente del capítulo 1 se adapta al tema del día
+
+**Decisión.** La regla general dice que "El Antecedente" (lo que reemplaza la cuenta de
+cobro solo en el capítulo 1, por no existir archivo) es sobre un error de negocio. Para
+el capítulo 1 real — tema: "Las profesiones que mejor echan los perros" — se adaptó: cada
+uno cuenta el peor fallo ligando causado por su propia profesión.
+
+**Por qué.** El Antecedente es un ritual de una sola vez, no un patrón que se repita en
+capítulos futuros — no hay necesidad de mantenerlo genérico. Abrir un capítulo sobre
+ligue con una historia de negocio habría sido un arranque en falso; la versión temática
+sigue sembrando el archivo y además calienta motores justo para el tema del día.
+
+**Qué la cambiaría.** Nada — es una decisión de una sola aplicación. Si en el futuro el
+programa reinicia el archivo (por ejemplo con otro panel), se vuelve a evaluar caso por
+caso si conviene atar El Antecedente al tema del día o dejarlo genérico.
+
 ---
 
 ## 2026-11-11 · Las tres dinámicas fijas

@@ -17,7 +17,6 @@ inventados), así que el banco necesita por lo menos 8 sin usar para estar sano.
 
 | Dato | Propuesto por | Usado en cap. |
 |---|---|---|
-| Al 98% de los doctores le pegan cacho | Jesús | — |
 | | | |
 | | | |
 
@@ -26,10 +25,11 @@ inventados), así que el banco necesita por lo menos 8 sin usar para estar sano.
 | Dato | Fuente | Propuesto por | Usado en cap. |
 |---|---|---|---|
 | | | | |
-| | | | |
 
 ## Ya usados
 
 | Cap. | Dato | ¿Era el real? |
 |---|---|---|
-| | | |
+| 01 | Al 98% de los doctores le pegan cacho | No |
+| 01 | El 95% de las parejas que se conocen en el gimnasio rompen antes de terminar la rutina | No |
+| 01 | Ranking Tinder: "emprendedor" #2, "ingeniero" #7 entre perfiles más swipeados a la derecha | **Sí** |
