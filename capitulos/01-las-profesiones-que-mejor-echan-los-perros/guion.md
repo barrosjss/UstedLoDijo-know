@@ -74,15 +74,15 @@ creer a la mesa aunque sea cierto" (ver `docs/99-decisiones.md`, 2026-11-11).
 |---|---|---|
 | 1 | El 75% de las mujeres prefiere hombres con cuerpo normal antes que muy musculoso, según la sexóloga Tracey Cox | [El Tiempo](https://www.eltiempo.com/cultura/gente/psicologo-hugo-hernandez-los-hombres-obsesionados-con-el-gimnasio-descuidan-sus-relaciones-3482939) |
 | 2 | Los vendedores lideran la infidelidad laboral con 14.5%, según encuesta a 3.800 personas en Reino Unido (RantCasino, oct. 2023) | [La República](https://larepublica.pe/amp/mundo/2023/11/03/esta-es-la-lista-de-las-10-profesiones-en-las-que-mas-infidelidades-se-cometen-segun-encuesta-los-10-trabajos-con-mas-infieles-profesiones-con-mayor-cantidad-de-infieles-ranking-de-profesiones-infieles-vida-de-pareja-amores-infieles-47352) |
-| 3 | En el ranking de Tinder de perfiles más "swipeados" a la derecha por mujeres: **empresario #2**, **ingeniero #7**, **abogado #11**, **entrenador personal #12** (de 15 profesiones listadas) | [Fucsia](https://www.fucsia.co/sexo-y-relaciones/articulo/las-profesiones-mas-atractivas-en-tinder/70276/) — comunicado de Tinder, año 2016 |
+| 3 | Según Parship y la Universidad de Bremen, el abogado es apenas la **séptima** profesión más deseada por las mujeres como pareja — por debajo del médico, el arquitecto, el psicólogo y hasta el policía | [RRHH Press](https://www.rrhhpress.com/tendencias/13147-las-profesiones-mas-deseadas-por-el-sexo-opuesto-segun-parship-y-la-universidad-de-bremen) — estudio de 2012 |
 
-El dato 1 pica a Carlos (entrenador), el dato 2 pica a Melissa (asesora comercial), y el
-dato 3 los toca a los cuatro a la vez — por categoría, no por nombre; que cada uno se lo
-tome como quiera en vivo.
+El dato 1 pica a Carlos (entrenador), el dato 2 pica a Melissa (asesora comercial), el
+dato 3 pica a Tairo (abogado) — por categoría, no por nombre; que cada uno se lo tome
+como quiera en vivo. A Jesús (ingeniero) le toca esperar un capítulo futuro.
 
-Puente al bloque 2: el dato 3 es el gancho — los cuatro oficios de la mesa están en esa
-misma lista, en orden distinto. La pregunta que abre las cicatrices es si ese orden se
-cumple en la vida real o es puro saludo a la bandera.
+Puente al bloque 2: si ni siendo abogado se es la opción más deseada, la pregunta que
+abre las cicatrices es qué hace cada oficio para compensar lo que el ranking no le da
+gratis.
 
 ## Tramo 6 · Bloque 2 — Cicatrices (13 min)
 

@@ -43,7 +43,7 @@ menos creíble a la mesa.
 |---|---|---|
 | 1 | El 75% de las mujeres prefiere hombres con cuerpo normal antes que muy musculoso | [El Tiempo](https://www.eltiempo.com/cultura/gente/psicologo-hugo-hernandez-los-hombres-obsesionados-con-el-gimnasio-descuidan-sus-relaciones-3482939) |
 | 2 | Los vendedores lideran la infidelidad laboral con 14.5% (RU, oct. 2023) | [La República](https://larepublica.pe/amp/mundo/2023/11/03/esta-es-la-lista-de-las-10-profesiones-en-las-que-mas-infidelidades-se-cometen-segun-encuesta-los-10-trabajos-con-mas-infieles-profesiones-con-mayor-cantidad-de-infieles-ranking-de-profesiones-infieles-vida-de-pareja-amores-infieles-47352) |
-| 3 | Ranking Tinder (2016): empresario #2, ingeniero #7, abogado #11, entrenador personal #12 de 15 | [Fucsia](https://www.fucsia.co/sexo-y-relaciones/articulo/las-profesiones-mas-atractivas-en-tinder/70276/) |
+| 3 | El abogado es la #7 profesión más deseada por mujeres como pareja (Parship/U. Bremen, 2012) | [RRHH Press](https://www.rrhhpress.com/tendencias/13147-las-profesiones-mas-deseadas-por-el-sexo-opuesto-segun-parship-y-la-universidad-de-bremen) |
 
 - Cuál le sonó menos creíble a la mesa:
 - Quién le dudó más a la realidad (y si paga prenda):
