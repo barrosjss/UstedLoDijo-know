@@ -81,14 +81,36 @@ baja el target a 45 min.
 
 ---
 
-## 2026-11-11 · Los datos inventados se marcan siempre
+## 2026-11-11 · El Dato Costeño pasa de "uno real, dos inventados" a los tres reales
 
-**Decisión.** En el Dato Costeño, los datos falsos se revelan al aire y llevan sello en
-pantalla. Ninguna cifra sin verificar sale sin marca.
+**Decisión.** El Dato Costeño ya no inventa nada. Los tres datos del segmento son reales
+y verificados; el juego cambia de "adivine cuál es mentira" a "adivine cuál le suena
+menos creíble aunque sea cierto". Reemplaza la versión original del formato (ver
+[dinámicas](04-dinamicas.md#el-dato-costeño)).
 
-**Por qué.** El humor del programa depende de poder decir barbaridades con cara seria; la
-credibilidad depende de que nadie salga de ahí creyendo una estadística falsa. La marca
-permite las dos cosas al mismo tiempo, y cuesta un segundo de edición.
+**Por qué.** Jesús lo pidió explícitamente después de ver los dos inventados del
+capítulo 1 ("al 98% de los doctores le pegan cacho" y el de las parejas de gimnasio):
+quiere que todo el segmento sea dato real, y mejor si pega con el tema del día. Al
+buscar reemplazos aparecieron datos reales tan absurdos como los inventados —de sobra
+para sostener el mismo nivel de humor sin fabricar nada.
 
-**Qué la cambiaría.** Nada. Es la línea que sostiene el "podemos opinar basados en lo que
-sabemos".
+**Qué la cambiaría.** Que el banco de datos reales y curiosos se seque y no alcance a
+sostener 3 por capítulo — en ese caso se evalúa volver a un formato mixto.
+
+---
+
+## 2026-11-11 · Todo dato se verifica en la fuente primaria, no en el resumen de la búsqueda
+
+**Decisión.** Antes de usar un dato real en un capítulo, alguien lee el artículo o
+estudio original completo — no solo el resumen que entrega una búsqueda. Si el dato
+tiene fecha, esa fecha se dice al aire.
+
+**Por qué.** El primer dato real usado para El Dato Costeño del capítulo 1 (ranking de
+Tinder) se tomó del resumen de una búsqueda sin abrir la fuente. El segundo dato real
+usado (Barranquilla, matrimonios y divorcios) sí se verificó directo en el artículo de
+El Heraldo, y resultó ser de 2016 — diez años viejo, y el resumen inicial no lo dejaba
+claro. Sin ese paso extra se habría presentado una cifra de hace una década como si
+fuera actual.
+
+**Qué la cambiaría.** Nada — es la práctica mínima para poder llamar "real" a un dato
+en un programa que se jacta de cobrarle a la gente lo que dice.

@@ -56,7 +56,7 @@ conversación grabada:
 |---|---|---|
 | **El archivo** | Nada se dice gratis: lo que firmó, se le cobra | [Cuenta de cobro](04-dinamicas.md#la-cuenta-de-cobro) + [acta](04-dinamicas.md#el-acta-de-cierre) |
 | **El sombrero** | Un sombrero distinto por capítulo; quien lo lleva no se ríe y modera | [Roles](02-panel-y-roles.md#el-del-sombrero-mediador-de-la-conversación-rota-cada-capítulo) |
-| **El Dato Costeño** | Tres datos, uno es verdad, los otros nos los inventamos | [Dinámicas](04-dinamicas.md#el-dato-costeño) |
+| **El Dato Costeño** | Tres datos reales que suenan imposibles, y lo son | [Dinámicas](04-dinamicas.md#el-dato-costeño) |
 
 Los tres están en **todos** los capítulos. Lo demás rota.
 
@@ -77,7 +77,8 @@ Los tres están en **todos** los capítulos. Lo demás rota.
 - No es terapia grupal ni venta encubierta de los servicios de los panelistas.
 - No es espacio para quemar a clientes, socios o proveedores reales
   (ver [reglas de la casa](05-reglas-de-la-casa.md)).
-- No es fuente de datos. Los datos inventados se marcan como inventados, siempre.
+- No es fuente de estadísticas inventadas. Todo dato que se cita, dentro o fuera de El
+  Dato Costeño, es real y con fuente verificada.
 
 ## Temas: cómo se eligen
 

@@ -96,10 +96,9 @@ a esta mesa específicamente.
 ### Tramo 5 · El Dato Costeño (3:30)
 
 Bisagra deliberada. Después de 10 minutos de aterrizaje la atención cae, y esta sección
-la levanta sin cambiar de tema: el dato real que se revela al final es el puente hacia
-las historias del bloque 2. Reglas en
-[dinámicas](04-dinamicas.md#el-dato-costeño) — incluidas las de marcar los datos
-inventados.
+la levanta sin cambiar de tema: los tres datos son reales, y el que más shockeó a la
+mesa es el puente hacia las historias del bloque 2. Reglas de verificación en
+[dinámicas](04-dinamicas.md#el-dato-costeño).
 
 ### Tramo 6 · Bloque 2 — Cicatrices (13 min) — el tramo más importante
 

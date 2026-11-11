@@ -22,7 +22,7 @@ Rotación del sombrero: **Carlos → Tairo → Melissa → Carlos…** (Jesús c
 
 **Los tres elementos que van en todos los capítulos:** el archivo (se le cobra lo que
 firmó), el sombrero (un sombrero nuevo por capítulo, quien lo lleva modera y no se ríe)
-y El Dato Costeño (tres datos curiosos, uno es verdad). Todo lo demás rota.
+y El Dato Costeño (tres datos reales que suenan inventados). Todo lo demás rota.
 
 ## Índice
 

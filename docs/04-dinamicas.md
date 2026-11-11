@@ -55,35 +55,38 @@ en 90 s la vez que se equivocó más fuerte en su negocio. Eso siembra el archiv
 
 **Fija · Bisagra entre bloque 1 y bloque 2 · 3–4 min · Lo lee el del Sombrero**
 
-Datos curiosos contados a lo barranquillero, leídos con **cara de velorio** por el del
-Sombrero. Todo el chiste está en el contraste: el dato más absurdo del mundo leído como
-si fuera el noticiero de las 7.
+Tres datos **reales y verificados**, elegidos porque suenan imposibles, leídos con
+**cara de velorio** por el del Sombrero. Todo el chiste está en el contraste: lo más
+absurdo del mundo leído como si fuera el noticiero de las 7 — y resulta que es cierto.
 
-**Cómo se juega — tres datos, uno es verdad:**
+> No hay nada inventado en esta sección. La gracia no es adivinar cuál dato es mentira;
+> es que la realidad ya es más absurda que cualquier chiste que nos podamos inventar.
 
-1. El del Sombrero lee **tres datos** seguidos, con la misma seriedad. Dos son
-   inventados a lo costeño, **uno es real y verificable**.
-   > *"Dato uno: al 98% de los doctores le pegan cacho."*
-   > *"Dato dos: Barranquilla tiene más moteles por habitante que…"*
-   > *"Dato tres: …"*
-2. La mesa discute y **vota cuál es el real**. 60 segundos máximo, no más.
-3. El del Sombrero revela. El que acertó se salva; **los que fallaron quedan debiendo** y
-   el que más falla en el capítulo paga [prenda](#la-prenda).
-4. El dato real se usa como **puente al bloque 2**: el host lo amarra con el tema del día.
+**Cómo se juega — tres datos, uno les suena más falso:**
+
+1. El del Sombrero lee **tres datos reales**, seguidos, con la misma seriedad.
+2. La mesa discute y **vota cuál de los tres le suena MENOS creíble** — el que más les
+   cuesta creer que sea verdad. 60 segundos máximo, no más.
+3. El del Sombrero revela: **los tres son reales, con fuente.** Quien más le dudó a la
+   realidad —el que votó más veces por "eso no puede ser cierto"— paga
+   [prenda](#la-prenda).
+4. El dato que más shockeó a la mesa se usa como **puente al bloque 2**: el host lo
+   amarra con el tema del día.
 
 **Reglas de producción — importantes:**
 
-- **Los datos inventados se marcan.** Al revelar, el del Sombrero dice literal: *"los
-  otros dos nos los inventamos nosotros"*. En edición, los inventados llevan sello en
-  pantalla: **`DATO NO VERIFICADO · ESO LO DIJIMOS NOSOTROS`**. El chiste no se pierde y
-  nadie sale a repetir una estadística falsa en serio.
-- **El dato real se verifica antes de grabar** y la fuente queda anotada en el
-  [guion](../plantillas/guion-capitulo.md). Un dato real sin fuente no entra.
-- **Los inventados son sobre categorías, no sobre personas.** "Los doctores", "los
-  taxistas", "los que viven en el norte": sí. Una persona real, un negocio real o un
-  cliente con nombre: nunca. Ver [reglas de la casa](05-reglas-de-la-casa.md).
-- El tono es **costeño de verdad**: el dato tiene que sonar a algo que diría un tío en
-  un sancocho, no a algo traducido de un listicle de internet.
+- **Todo dato se verifica antes de grabar**, de la fuente primaria y no solo del
+  resumen de un buscador, y queda anotado en el
+  [guion](../plantillas/guion-capitulo.md) con fecha del dato. Un dato real sin fuente,
+  o cuya fecha no se confirmó, no entra — un dato de hace diez años se dice con el año,
+  nunca como si fuera actual.
+- **Pueden ser sobre categorías o sobre estudios/encuestas con nombre.** Si el dato
+  viene de una encuesta de una marca o empresa, se dice la fuente tal cual, sin
+  esconderla — eso no lo hace menos real, solo hay que ser transparente con de dónde
+  salió. Nunca se usa un dato real que identifique a una persona, negocio o cliente
+  concreto. Ver [reglas de la casa](05-reglas-de-la-casa.md).
+- El tono es **costeño de verdad**: el dato se lee como algo que diría un tío en un
+  sancocho, aunque venga de un estudio internacional.
 
 **Banco de datos:** se mantiene en `docs/banco-datos-costenos.md` (se crea con el
 primer capítulo). Cada panelista debe meter 2 datos al banco por mes. Nunca se llega a

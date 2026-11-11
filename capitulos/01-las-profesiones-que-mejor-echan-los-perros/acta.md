@@ -36,11 +36,17 @@ No aplica — capítulo 1, sin archivo previo. Se reemplazó por **El Antecedent
 
 ## El Dato Costeño
 
-- Dato real: en Barranquilla, 1 de cada 3 matrimonios terminó en divorcio (**cifras de 2016**:
-  1.892 matrimonios, 631 divorcios, Superintendencia de Notariado y Registro) — fuente:
-  [El Heraldo](https://www.elheraldo.co/entretenimiento/en-barranquilla-por-cada-tres-matrimonios-se-produce-un-divorcio-313725)
-- Quién acertó:
-- Quién falló más (y si paga prenda):
+Los tres son reales (ver `docs/99-decisiones.md`, 2026-11-11). Se vota cuál le sonó
+menos creíble a la mesa.
+
+| # | Dato | Fuente |
+|---|---|---|
+| 1 | El 75% de las mujeres prefiere hombres con cuerpo normal antes que muy musculoso | [El Tiempo](https://www.eltiempo.com/cultura/gente/psicologo-hugo-hernandez-los-hombres-obsesionados-con-el-gimnasio-descuidan-sus-relaciones-3482939) |
+| 2 | Los vendedores lideran la infidelidad laboral con 14.5% (RU, oct. 2023) | [La República](https://larepublica.pe/amp/mundo/2023/11/03/esta-es-la-lista-de-las-10-profesiones-en-las-que-mas-infidelidades-se-cometen-segun-encuesta-los-10-trabajos-con-mas-infieles-profesiones-con-mayor-cantidad-de-infieles-ranking-de-profesiones-infieles-vida-de-pareja-amores-infieles-47352) |
+| 3 | En Barranquilla, 1 de cada 3 matrimonios terminó en divorcio (**cifras de 2016**) | [El Heraldo](https://www.elheraldo.co/entretenimiento/en-barranquilla-por-cada-tres-matrimonios-se-produce-un-divorcio-313725) |
+
+- Cuál le sonó menos creíble a la mesa:
+- Quién le dudó más a la realidad (y si paga prenda):
 
 ## ChatGPT
 

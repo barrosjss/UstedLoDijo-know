@@ -67,15 +67,21 @@ acta de hoy.
 
 ## Tramo 5 · El Dato Costeño (3:30)
 
-| # | Dato | ¿Real? | Fuente |
-|---|---|---|---|
-| 1 | Al 98% de los doctores le pegan cacho | inventado | — |
-| 2 | El 95% de las parejas que se conocen en el gimnasio rompen antes de terminar la rutina | inventado | — |
-| 3 | En Barranquilla, por cada tres matrimonios se produjo un divorcio (cifras de 2016: 1.892 matrimonios, 631 divorcios) | **REAL** | [El Heraldo](https://www.elheraldo.co/entretenimiento/en-barranquilla-por-cada-tres-matrimonios-se-produce-un-divorcio-313725) — dato de la Superintendencia de Notariado y Registro, año 2016 |
+Los tres datos son reales — el juego ya no es "cuál es mentira", es "cuál le cuesta más
+creer a la mesa aunque sea cierto" (ver `docs/99-decisiones.md`, 2026-11-11).
 
-Puente al bloque 2: si en esta ciudad uno de cada tres matrimonios se rompe, la
-pregunta que abre las cicatrices es si la culpa es del oficio de cada uno o es de
-Barranquilla. Ahí arranca el bloque 2.
+| # | Dato | Fuente |
+|---|---|---|
+| 1 | El 75% de las mujeres prefiere hombres con cuerpo normal antes que muy musculoso, según la sexóloga Tracey Cox | [El Tiempo](https://www.eltiempo.com/cultura/gente/psicologo-hugo-hernandez-los-hombres-obsesionados-con-el-gimnasio-descuidan-sus-relaciones-3482939) |
+| 2 | Los vendedores lideran la infidelidad laboral con 14.5%, según encuesta a 3.800 personas en Reino Unido (RantCasino, oct. 2023) | [La República](https://larepublica.pe/amp/mundo/2023/11/03/esta-es-la-lista-de-las-10-profesiones-en-las-que-mas-infidelidades-se-cometen-segun-encuesta-los-10-trabajos-con-mas-infieles-profesiones-con-mayor-cantidad-de-infieles-ranking-de-profesiones-infieles-vida-de-pareja-amores-infieles-47352) |
+| 3 | En Barranquilla, por cada tres matrimonios se produjo un divorcio (cifras de 2016: 1.892 matrimonios, 631 divorcios) | [El Heraldo](https://www.elheraldo.co/entretenimiento/en-barranquilla-por-cada-tres-matrimonios-se-produce-un-divorcio-313725) — Superintendencia de Notariado y Registro, año 2016 |
+
+El dato 1 pica a Carlos (entrenador), el dato 2 pica a Melissa (asesora comercial) — por
+categoría, no por nombre; que cada uno se lo tome como quiera en vivo.
+
+Puente al bloque 2: cualquiera de los tres sirve de gancho, pero el de Barranquilla es
+el más directo — si en esta ciudad uno de cada tres matrimonios se rompe, la pregunta
+que abre las cicatrices es si la culpa es del oficio de cada uno o es de Barranquilla.
 
 ## Tramo 6 · Bloque 2 — Cicatrices (13 min)
 

@@ -25,9 +25,10 @@ cámara: se corta en edición.
    de un competidor.
 4. **Conflictos personales con nombre propio.** El socio que lo tumbó se cuenta como
    historia, no como denuncia. El programa no es un juzgado.
-5. **Datos inventados sin marcar.** El [Dato Costeño](04-dinamicas.md#el-dato-costeño)
-   es un juego declarado; por fuera de esa sección, inventar una cifra con cara de
-   seriedad es la única falta que puede costarle credibilidad al programa.
+5. **Inventar una cifra con cara de seriedad.** No se hace en ninguna sección del
+   programa, [Dato Costeño](04-dinamicas.md#el-dato-costeño) incluido — ahí los tres
+   datos son reales, elegidos porque suenan imposibles. Es la falta que más rápido le
+   costaría credibilidad al programa.
 6. **Chistes con costo real.** La recocha es a costa de uno mismo y de los de la mesa, no
    de personas identificables fuera de ella, ni por rasgos que la gente no escoge.
    Barranquilla se burla de Barranquilla: eso sí, y es la gracia.
@@ -41,7 +42,7 @@ El programa no vive de datos, vive de experiencia. Pero cuando aparece un dato:
 
 | Situación | Qué se hace |
 |---|---|
-| Dato real en el Dato Costeño | Se verifica **antes** de grabar, con fuente en el guion |
+| Cualquier dato en el Dato Costeño (los tres son reales) | Se verifica **antes** de grabar, en la fuente primaria —no solo el resumen de un buscador—, con fuente y fecha en el guion |
 | Cifra que suelta un panelista en mesa | El sombrero pregunta la fuente. Si no la tiene, se dice al aire: "esa cifra es de memoria" |
 | Dato que suelta ChatGPT | Se verifica antes de publicar, o se marca `SIN VERIFICAR` en pantalla, o se corta |
 | Dato que no se pudo verificar en edición | Se corta. Nunca se publica un número dudoso sin marca |

@@ -33,14 +33,13 @@ de una historia, una pelea respetuosa de la mesa. Eso es el producto.
 
 | Marca | Cuándo |
 |---|---|
-| `DATO NO VERIFICADO · ESO LO DIJIMOS NOSOTROS` | Sobre los datos inventados del Dato Costeño, al revelar |
 | `SIN VERIFICAR` | Sobre cualquier cifra de ChatGPT que no se alcanzó a verificar |
-| `FUENTE: …` | Sobre el dato real del Dato Costeño |
+| `FUENTE: … (año)` | Sobre cada uno de los tres datos de El Dato Costeño |
 | `CAPÍTULO n · dd/mm` | Sobre cada afirmación de la cuenta de cobro |
 | Nombre y oficio | Primera aparición de cada panelista, una vez |
 
-Estas marcas no son burocracia: son lo que permite que el programa sea descaradamente
-humorístico con los datos falsos sin volverse una fuente de desinformación.
+Estas marcas no son burocracia: son lo que permite que el programa suene a datos
+contundentes sin que nadie pueda acusarlo de inventar una cifra.
 
 ## Clips — cómo se escogen
 
