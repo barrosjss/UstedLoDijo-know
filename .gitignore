@@ -1,0 +1,19 @@
+# Media cruda y masters: nunca en el repo
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.aiff
+*.mp3
+*.m4a
+*.flac
+
+# Proyectos de edición
+*.prproj
+*.fcpbundle
+*.aup3
+*.ptx
+
+# Sistema
+.DS_Store
+Thumbs.db
