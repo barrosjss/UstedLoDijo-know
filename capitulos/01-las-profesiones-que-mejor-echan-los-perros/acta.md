@@ -36,7 +36,8 @@ No aplica — capítulo 1, sin archivo previo. Se reemplazó por **El Antecedent
 
 ## El Dato Costeño
 
-- Dato real: en Barranquilla, 1 de cada 3 matrimonios termina en divorcio — fuente:
+- Dato real: en Barranquilla, 1 de cada 3 matrimonios terminó en divorcio (**cifras de 2016**:
+  1.892 matrimonios, 631 divorcios, Superintendencia de Notariado y Registro) — fuente:
   [El Heraldo](https://www.elheraldo.co/entretenimiento/en-barranquilla-por-cada-tres-matrimonios-se-produce-un-divorcio-313725)
 - Quién acertó:
 - Quién falló más (y si paga prenda):

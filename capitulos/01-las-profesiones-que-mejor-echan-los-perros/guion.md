@@ -71,7 +71,7 @@ acta de hoy.
 |---|---|---|---|
 | 1 | Al 98% de los doctores le pegan cacho | inventado | — |
 | 2 | El 95% de las parejas que se conocen en el gimnasio rompen antes de terminar la rutina | inventado | — |
-| 3 | En Barranquilla, por cada tres matrimonios se produce un divorcio | **REAL** | [El Heraldo](https://www.elheraldo.co/entretenimiento/en-barranquilla-por-cada-tres-matrimonios-se-produce-un-divorcio-313725) |
+| 3 | En Barranquilla, por cada tres matrimonios se produjo un divorcio (cifras de 2016: 1.892 matrimonios, 631 divorcios) | **REAL** | [El Heraldo](https://www.elheraldo.co/entretenimiento/en-barranquilla-por-cada-tres-matrimonios-se-produce-un-divorcio-313725) — dato de la Superintendencia de Notariado y Registro, año 2016 |
 
 Puente al bloque 2: si en esta ciudad uno de cada tres matrimonios se rompe, la
 pregunta que abre las cicatrices es si la culpa es del oficio de cada uno o es de

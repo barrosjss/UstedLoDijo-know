@@ -35,4 +35,4 @@ inventados), así que el banco necesita por lo menos 8 sin usar para estar sano.
 |---|---|---|
 | 01 | Al 98% de los doctores le pegan cacho | No |
 | 01 | El 95% de las parejas que se conocen en el gimnasio rompen antes de terminar la rutina | No |
-| 01 | En Barranquilla, por cada tres matrimonios se produce un divorcio | **Sí** |
+| 01 | En Barranquilla, por cada tres matrimonios se produjo un divorcio (cifras de 2016) | **Sí** |
