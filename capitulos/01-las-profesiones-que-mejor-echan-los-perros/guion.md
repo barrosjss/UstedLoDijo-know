@@ -71,11 +71,11 @@ acta de hoy.
 |---|---|---|---|
 | 1 | Al 98% de los doctores le pegan cacho | inventado | — |
 | 2 | El 95% de las parejas que se conocen en el gimnasio rompen antes de terminar la rutina | inventado | — |
-| 3 | En el ranking de perfiles más swipeados a la derecha en Tinder, "emprendedor" es el #2 (solo detrás de piloto) y "ingeniero" el #7 | **REAL** | [Fucsia](https://www.fucsia.co/sexo-y-relaciones/articulo/las-profesiones-mas-atractivas-en-tinder/70276/) · [Enter.co](https://www.enter.co/chips-bits/apps-software/estas-son-las-profesiones-con-mas-me-gusta-en-tinder/) |
+| 3 | En Barranquilla, por cada tres matrimonios se produce un divorcio | **REAL** | [El Heraldo](https://www.elheraldo.co/entretenimiento/en-barranquilla-por-cada-tres-matrimonios-se-produce-un-divorcio-313725) |
 
-Puente al bloque 2: el dato real pica directo a la mesa — tres de los cuatro son
-emprendedores y uno además es ingeniero, así que según Tinder deberían ir ganando. Ahí
-arranca el bloque de cicatrices a probarlo o desmentirlo.
+Puente al bloque 2: si en esta ciudad uno de cada tres matrimonios se rompe, la
+pregunta que abre las cicatrices es si la culpa es del oficio de cada uno o es de
+Barranquilla. Ahí arranca el bloque 2.
 
 ## Tramo 6 · Bloque 2 — Cicatrices (13 min)
 

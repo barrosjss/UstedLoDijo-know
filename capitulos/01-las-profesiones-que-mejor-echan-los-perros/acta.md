@@ -36,8 +36,8 @@ No aplica — capítulo 1, sin archivo previo. Se reemplazó por **El Antecedent
 
 ## El Dato Costeño
 
-- Dato real: ranking Tinder — "emprendedor" #2, "ingeniero" #7 — fuente:
-  [Fucsia](https://www.fucsia.co/sexo-y-relaciones/articulo/las-profesiones-mas-atractivas-en-tinder/70276/)
+- Dato real: en Barranquilla, 1 de cada 3 matrimonios termina en divorcio — fuente:
+  [El Heraldo](https://www.elheraldo.co/entretenimiento/en-barranquilla-por-cada-tres-matrimonios-se-produce-un-divorcio-313725)
 - Quién acertó:
 - Quién falló más (y si paga prenda):
 
